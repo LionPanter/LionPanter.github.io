@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: 'novecento_widenormal';
+    src: url('synthview_-_novecentowide-normal-webfont.woff2') format('woff2'),
+         url('synthview_-_novecentowide-normal-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

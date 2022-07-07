@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: 'novecento_widelight';
+    src: url('synthview_-_novecentowide-light-webfont.woff2') format('woff2'),
+         url('synthview_-_novecentowide-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
