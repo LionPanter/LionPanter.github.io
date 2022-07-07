@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: 'snell_roundhandblack';
+    src: url('snellroundhand-black-webfont.woff2') format('woff2'),
+         url('snellroundhand-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
